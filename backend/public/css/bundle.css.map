@@ -1,0 +1,1 @@
+{"version":3,"file":"css/bundle.css","mappings":"AAAA;IACI,mBAAmB;AACvB;AACA;IACI,aAAa;AACjB;AACA;IACI,gBAAgB;AACpB,C","sources":["webpack://javascript-fullstack/./frontend/styles/index.css"],"sourcesContent":[".form-group, .input-group {\n    margin-bottom: 10px;\n}\n.me-pd {\n    padding: 20px;\n}\n.px-2 {\n    margin-top: 10px;\n}"],"names":[],"sourceRoot":""}
